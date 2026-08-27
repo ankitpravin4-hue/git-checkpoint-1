@@ -1,1 +1,1 @@
-# git-checkpoint-1
+# git-checkpoint-1Checkpoint 1 - Git Fundamentals
